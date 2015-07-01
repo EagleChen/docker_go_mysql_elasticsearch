@@ -3,7 +3,7 @@ dockerfile and start script for [go-mysql-elasticsearch](https://github.com/sidd
 
 ## Usage
 ```
-docker run -d -v /tmp/go_mysql_river.toml:/go_mysql_river.toml:r eaglechen/go_mysql_elasticsearch
+docker run -d -v /tmp/go_mysql_river.toml:/go_mysql_river.toml:r eaglechen/go-mysql-elasticsearch
 ```
 
 Config file path can be set by environment variale `CONFIG`. The default value is `/go_mysql_river.toml`.
