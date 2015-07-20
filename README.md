@@ -1,4 +1,4 @@
-# Go_mysql_elasticsearch
+# docker_go_mysql_elasticsearch
 dockerfile and start script for [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch)
 
 ## Usage
